@@ -6,5 +6,7 @@
   3.what is the best time for showing our advertisements, in order to maximize the possibility of customer's buying product?
   4.What products sold the most?
   5.This question is basicly associated with previous one ,as a data analys  i wanna prove that why 'AAA Batterries' are the best seller products?which reason was effective on       this product to be a most sold product?
+## Used Technologies :
+ Python data analysis libraries (numpy,matplotlib,pandas)
 ## Notice : 
-  by default state , i assumed that csv file and code file will stay in same folder
+  By default state , i assumed that csv file and code file will stay in same folder
